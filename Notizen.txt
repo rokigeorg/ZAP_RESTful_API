@@ -1,0 +1,17 @@
+
+Display information on the Home Website Page
+mySQL:
+store data
+ ->
+      Flask:
+      gets / fetches Data from MySQL
+      creates API Endpoints
+                                  ->
+                                    HTML JS
+                                    XML Request GET JSON from REST Endpoint
+                                    shows Message on the page
+
+CMS Backend
+
+Flask App shows Login
+    
